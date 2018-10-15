@@ -2,7 +2,7 @@
 
 In this project, we try to work on [Activity Recognition Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). This project was also used to explore the hyperopt (python module)for optimizing the hyperparameters of different models.
 
-The Jupyter Notebook file is [here](https://github.com/abishekarun/Human-activity-recognition/blob/master/activity_recognition.ipynb) for this project.
+The Jupyter Notebook file is [here](https://nbviewer.jupyter.org/github/abishekarun/Human-activity-recognition/blob/master/activity_recognition.ipynb) for this project.
 
 The resources that helped me are:
 
